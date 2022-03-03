@@ -8,4 +8,4 @@
 	dh $@
 
 override_dh_installgsettings:
-	dh_installgsettings --priority=40
+	dh_installgsettings --priority=60
