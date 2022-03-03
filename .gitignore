@@ -1,2 +1,8 @@
-build
-scaled
+/build
+/debian/.debhelper
+/debian/debhelper-build-stamp
+/debian/files
+/debian/pop-hp-wallpapers
+/debian/*.debhelper.log
+/debian/*.substvars
+/scaled
