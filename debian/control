@@ -9,5 +9,6 @@ Vcs-Git: https://github.com/pop-os/hp-wallpapers.git
 
 Package: pop-hp-wallpapers
 Architecture: all
+Provides: ubuntu-wallpapers
 Description: Wallpapers for HP products
  A collection of wallpapers for HP products using Pop!_OS
